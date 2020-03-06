@@ -1,0 +1,14 @@
+namespace: cisco
+name: ucs
+version: 0.1.0
+readme: README.md
+authors: null
+description: null
+license: GPL-3.0-or-later
+license_file: COPYING
+tags: null
+dependencies: {}
+repository: git@github.com:coll-test/cisco.ucs.git
+documentation: https://github.com/coll-test/cisco.ucs/tree/master/docs
+homepage: https://github.com/coll-test/cisco.ucs
+issues: https://github.com/coll-test/cisco.ucs/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc

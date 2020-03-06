@@ -1,0 +1,14 @@
+plugins/module_utils/remote_management/ucs.py future-import-boilerplate
+plugins/module_utils/remote_management/ucs.py metaclass-boilerplate
+plugins/modules/ucs_ip_pool.py validate-modules:parameter-type-not-in-doc
+plugins/modules/ucs_mac_pool.py validate-modules:parameter-type-not-in-doc
+plugins/modules/ucs_managed_objects.py validate-modules:doc-elements-mismatch
+plugins/modules/ucs_managed_objects.py validate-modules:parameter-list-no-elements
+plugins/modules/ucs_managed_objects.py validate-modules:parameter-type-not-in-doc
+plugins/modules/ucs_managed_objects.py validate-modules:undocumented-parameter
+plugins/modules/ucs_service_profile_template.py validate-modules:parameter-type-not-in-doc
+plugins/modules/ucs_uuid_pool.py validate-modules:parameter-type-not-in-doc
+plugins/modules/ucs_vlans.py validate-modules:doc-required-mismatch
+plugins/modules/ucs_vlans.py validate-modules:parameter-type-not-in-doc
+plugins/doc_fragments/ucs.py future-import-boilerplate
+plugins/doc_fragments/ucs.py metaclass-boilerplate
